@@ -1,5 +1,6 @@
 Hello...
 
+<<<<<<< HEAD
 
 
 
@@ -7,3 +8,8 @@ Hello...
 
 trying to understand branch.
 .
+=======
+checking on branching.
+
+
+>>>>>>> prod
