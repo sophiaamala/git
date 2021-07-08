@@ -6,9 +6,13 @@ Hello...
 
 
 trying to understand branch.
+<<<<<<< HEAD
 
 
 checking on branching.
 
 
 
+=======
+.
+>>>>>>> branch
